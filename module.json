@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate" : false,
+    "name" : "Clear onscreen messages",
+    "category" : "client",
+    "author" : "SaltyMonkey",
+    "options" : {
+        "guiName" : "Clear screen",
+        "niceName" : "Clear screen"
+    },
+    "servers" : [
+        "https://raw.githubusercontent.com/SaltyMonkey/tera-online-clean-onscreen-messages/master/"
+    ]
+}
