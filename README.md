@@ -10,7 +10,5 @@
 * Removed "X enchanted" messages spam
 * Added slight transparency for block icon
 * Reworked block messages text (no more SUCC meme)
-* Adjusted messages location
-* Slighty incerased speed of loot messages
 
 Current source for gpk codebase: patch 98
